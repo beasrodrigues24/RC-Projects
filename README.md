@@ -2,7 +2,7 @@
 
 Trabalhos práticos da UC de Redes e Computadores na Universidade do Minho.
 
-Grade: /20
+Grade: 17.3/20
 
 ## Grupo 126 
 
